@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Orange Music Player</string>
+
+    <string name="app_id" translatable="false">ca-app-pub-8930377341158772~8390934872</string>
+    <string name="interstitial_admob" translatable="false"></string>
+    <string name="banner_admob" translatable="false"></string>
+    <string name="native_id_admob" translatable="false"></string>~
+
+
+
+    <string name="home">Home</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="playlists">Playlists</string>
+    <string name="personalization">Personalization</string>
+    <string name="favorites">Favorites</string>
+    <string name="recent_tracks">Recent Tracks</string>
+    <string name="in_motion">Orange Music Player</string>
+    <string name="trent_renzor_and_atticus_ross">Wizkid ft Burna</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="NoSong">No Song</string>
+    <string name="previous_song">Previous Song</string>
+    <string name="next_song">Next Song</string>
+    <string name="music_player">Orange Music Player</string>
+    <string name="create_playlist">Create Playlist</string>
+    <string name="enter_playlist_name">Enter Playlist Name</string>
+    <string name="choose_playlist">Choose Playlist:</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_downloaded_songs">No downloaded songs</string>
+    <string name="refresh">Refresh</string>
+    <string name="fetching_songs">Scanning for Songs....</string>
+    <string name="no_songs_in_this_playlist_n_add_some_songs">No Songs here</string>
+
+</resources>
